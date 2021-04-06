@@ -13,7 +13,7 @@ php_value auto_append_file "./DevelopmentSidebar/index.php"
 
 ### PHP
 ```PHP
-include $_SERVER['DOCUMENT_ROOT'].'./DevelopmentSidebar/index.php';
+include './DevelopmentSidebar/index.php';
 ```
 
 # Sidebar styles
