@@ -8,12 +8,12 @@ The bar can be added in the .htaccess file or in your PHP application.
 
 ### .htaccess
 ```htaccess
-php_value auto_append_file "/DevelopmentSidebar/index.php"
+php_value auto_append_file "./DevelopmentSidebar/index.php"
 ```
 
 ### PHP
 ```PHP
-include $_SERVER['DOCUMENT_ROOT'].'/DevelopmentSidebar/index.php';
+include $_SERVER['DOCUMENT_ROOT'].'./DevelopmentSidebar/index.php';
 ```
 
 # Sidebar styles
