@@ -4,7 +4,7 @@ Development sidebar that displays information related to the server you are visi
 
 # Installation
 
-The bar can be added in the .htaccess file or in you PHP application.
+The bar can be added in the .htaccess file or in your PHP application.
 
 ### .htaccess
 ```htaccess
