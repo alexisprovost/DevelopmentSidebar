@@ -1,6 +1,6 @@
 # DevelopmentSidebar
 
-Development sidebar that displays information related to the server you are visiting.
+Development sidebar that displays information related to the server you are visiting in AWS, Azure, Google Cloud and more.
 
 # Installation
 
