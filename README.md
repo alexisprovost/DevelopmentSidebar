@@ -1,6 +1,20 @@
 # DevelopmentSidebar
 
-Development sidebar which indicates if you are on a development version of your website and displays information which is related to the server you are currently visiting.
+Development sidebar that displays information related to the server you are visiting.
+
+# Installation
+
+The bar can be added in the .htaccess file or in you PHP application.
+
+## .htaccess
+```htaccess
+php_value auto_append_file "/DevelopmentSidebar/index.php"
+```
+
+## PHP
+```PHP
+include $_SERVER['DOCUMENT_ROOT'].'/DevelopmentSidebar/index.php';
+```
 
 # Sidebar styles
 <img src="https://img.sshort.net/i/LqJ3.png">
