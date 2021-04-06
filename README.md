@@ -10,7 +10,7 @@ The bar can be added in the .htaccess file or in your PHP application.
 ```htaccess
 php_value auto_append_file "./DevelopmentSidebar/index.php"
 ```
-
+or
 ### PHP
 ```PHP
 include './DevelopmentSidebar/index.php';
