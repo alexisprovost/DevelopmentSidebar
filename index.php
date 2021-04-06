@@ -13,7 +13,7 @@ $barPlatform = "aws";
 $barRightSide = true;
 //Show the number of website instances
 $bShowNbInstances = true;
-//Show the Development Sidebar
+//Force show the Development Sidebar
 $showBar = false;
 //Show the PHP version in the sidebar
 $bShowPhpVersion = true;
