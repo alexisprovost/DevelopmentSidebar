@@ -6,12 +6,12 @@ Development sidebar that displays information related to the server you are visi
 
 The bar can be added in the .htaccess file or in you PHP application.
 
-## .htaccess
+### .htaccess
 ```htaccess
 php_value auto_append_file "/DevelopmentSidebar/index.php"
 ```
 
-## PHP
+### PHP
 ```PHP
 include $_SERVER['DOCUMENT_ROOT'].'/DevelopmentSidebar/index.php';
 ```
