@@ -649,7 +649,7 @@ const CSS = <<<'CSS'
     text-align: left;
     backdrop-filter: blur(14px) saturate(1.2);
     -webkit-backdrop-filter: blur(14px) saturate(1.2);
-    min-width: 180px;
+    min-width: 15rem;
     max-width: 260px;
     display: flex;
     flex-direction: column;
